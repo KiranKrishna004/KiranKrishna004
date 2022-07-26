@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Front-end+developer.++++++++++)](https://git.io/typing-svg)
+
 ![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiranKrishna004&show_icons=true&theme=radical&count_private=true)
 <!--
 **KiranKrishna004/KiranKrishna004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
