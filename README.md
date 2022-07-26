@@ -1,7 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Front-end+developer.++++++++++)](https://git.io/typing-svg)
 <h1 align='center'>I'm Kiran</h1>
-![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiranKrishna004&show_icons=true&theme=radical&count_private=true)
+
 <h2>Github Stats</h2>
+
+![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiranKrishna004&show_icons=true&theme=radical&count_private=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiranKrishna004&layout=compact&hide=python,jupyter%20notebook)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KiranKrishna004&theme=neon-palenight&hide_border=true)
