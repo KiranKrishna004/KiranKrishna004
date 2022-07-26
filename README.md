@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Front-end+developer.++++++++++)](https://git.io/typing-svg)
-<h1 align='center'>I'm Kiran</h1>
+<h1 align='center'>Hi there, I'm Kiran Krishna!</h1>
 
 <h2>Github Stats</h2>
 
