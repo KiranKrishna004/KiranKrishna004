@@ -3,7 +3,7 @@
 ![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiranKrishna004&show_icons=true&theme=radical&count_private=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiranKrishna004&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiranKrishna004&layout=compact&hide=python)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KiranKrishna004&theme=neon-palenight&hide_border=true)
 <!--
